@@ -1,0 +1,7 @@
+{
+  "name": "EduTrack - Tuition Manager",
+  "description": "A comprehensive tuition management platform for teachers to track student profiles, payments, and history. Developed by MR. MIRROR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
